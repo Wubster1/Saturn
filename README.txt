@@ -6,4 +6,10 @@ I want to change some things:
 -then I want the led going faster and faster. With the speed I want the tale to grow.
 -until the max speed is arrived, then I want fireworks. stoboscope blinking the whole ring, like it's exploding.
  https://github.com/Wubster1/Saturn 
+ 
 Hopefully some programmers here can help me :-)
+
+
+And if you have other ideas? please share them, in the end I want a couple of programs played random.
+
+Tanks!
